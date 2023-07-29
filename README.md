@@ -3,7 +3,7 @@
 
 This project was developed over the course of a month utilizing cfenollosa's OS tutorial found here: https://github.com/cfenollosa/os-tutorial and a bit of the OSDev Wiki
 
-Overall the OS functions as a monolithic kernel, has a working shell, and very barebones memory management system that simply allocates a memory pool that can be used by the program. 
+Overall the OS functions as a monolithic kernel, has a working shell, and very barebones memory management system that simply creates a memory pool that can be used by the program. 
 
 
 I added commands that make manipulation of memory to be possible, these commands help with the simulation of a file management system which I attempted to implement utilizing a single linked list. These commands are:
