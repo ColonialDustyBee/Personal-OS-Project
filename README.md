@@ -19,3 +19,5 @@ Delete - deletes a select file/variable if its within memory
 Rename - renames a selected file/variable if its within memory
 
 List - lists the current files/variables inside the memory pool
+
+You can feel free to play around with each of these commands and for the syntax you can type in "help" within the command to get further explanations of each of these commands
